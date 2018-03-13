@@ -1,0 +1,23 @@
+switch (PIN){
+Case (PIN1 == newPIN1):
+	enterNewPIN();
+
+Case (newPIN1 > 10000):
+	System.out.println("Your password should not be more than 4 numbers. Please try again.");
+	enterNewPIN();
+
+Case (newPIN1 == (newPIN1 * -1);
+       	System.out.println("Password error. Please try again.");
+	enterNewPIN();
+
+
+for (newPIN1 = 1; i <=100; i++){
+
+if (PIN1 == newPIN1){
+            System.out.print("Enter your new password: ");
+            newPIN = ("");
+
+
+	
+ls
+sample.txt
